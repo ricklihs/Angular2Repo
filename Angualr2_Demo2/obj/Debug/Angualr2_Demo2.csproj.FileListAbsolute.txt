@@ -54,3 +54,4 @@ D:\lhs\Courses\Angular2\Course1\Angualr2_Demo2\bin\Microsoft.CodeDom.Providers.D
 D:\lhs\Courses\Angular2\Course1\Angualr2_Demo2\obj\Debug\Angualr2_Demo2.csproj.CoreCompileInputs.cache
 D:\lhs\Courses\Angular2\Course1\Angualr2_Demo2\obj\Debug\Angualr2_Demo2.dll
 D:\lhs\Courses\Angular2\Course1\Angualr2_Demo2\obj\Debug\Angualr2_Demo2.pdb
+D:\lhs\Courses\Angular2\Course1\Angualr2_Demo2\obj\Debug\Angualr2_Demo2.csprojResolveAssemblyReference.cache
