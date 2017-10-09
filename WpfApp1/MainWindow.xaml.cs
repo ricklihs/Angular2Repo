@@ -27,7 +27,9 @@ namespace WpfApp1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+
             txtBox1.Text = "BBCCDDD  FFFF For WPF";
+
         }
     }
 }
